@@ -1,0 +1,24 @@
+{
+  "version": 4,
+  "configurations": [
+    {
+      "name": "Qt6-Mingw",
+      "includePath": [
+        "${workspaceFolder}/**",
+        "D:/Qt/6.8.2/mingw_64/include",
+        "D:/Qt/6.8.2/mingw_64/include/QtWidgets",
+        "D:/Qt/6.8.2/mingw_64/include/QtCore",
+        "D:/Qt/6.8.2/mingw_64/include/QtGui"
+      ],
+      "defines": [
+        "QT_WIDGETS_LIB",
+        "QT_CORE_LIB"
+      ],
+      "compilerPath": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+
+      "cStandard": "c11",
+      "cppStandard": "c++17",
+      "intelliSenseMode": "windows-msvc-x64"
+    }
+  ]
+}
