@@ -83,6 +83,7 @@ void MainWindow::operations()
         new_label = QString::number(all_numbers, 'g', 15);
 
         ui->result_show->setText(new_label);
+        //vhfb
     }
 }
 
